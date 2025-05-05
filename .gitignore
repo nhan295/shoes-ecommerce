@@ -224,6 +224,8 @@ celerybeat.pid
 
 # Environments
 .env
+*.pyc
+__pycache__/
 .venv
 env/
 venv/
